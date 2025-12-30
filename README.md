@@ -15,7 +15,7 @@ A simple yet powerful Text Editor GUI built using Python Tkinter. Supports creat
 - Tkinter (Built-in Python GUI Library)
 
 ## Screenshot
-![Application Screenshot](screenshot.png)
+![Application Screenshot](Text-Editor-GUI-Python/screenshot.png)
 
 ## How It Works
 We use Tkinter widgets:
